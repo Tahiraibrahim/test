@@ -1,0 +1,26 @@
+{
+  "name": "tahira-practice1",
+  "version": "2.0.1",
+  "main": "index.js",
+  "type": "module",
+
+  "bin": "tahira-practice1.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tahira",
+  "license": "MIT",
+  "devDependencies": {
+    "3": "^2.1.0",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "undici-types": "^5.26.5"
+  },
+  "keywords": [],
+  "description": ""
+}
